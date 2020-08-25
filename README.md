@@ -1,7 +1,7 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 <h3 align="center">
-  Desafio 04: Conceitos do React Native - Resolvido ✅✔️☑️
+  Desafio 04: Conceitos do React Native - Resolvido ✔️
 </h3>
 
 <p align="center">“Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!</blockquote>
