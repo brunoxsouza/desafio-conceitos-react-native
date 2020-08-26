@@ -3,6 +3,9 @@
 <h3 align="center">
   Desafio 04: Conceitos do React Native - Resolvido ✔️
 </h3>
+<h3 align="center">
+  ⚠️Este repositório contém a resolução, para resolver por conta própria: <a href="#template-da-aplicação">Template da aplicação</a>⚠️
+</h3>
 
 <p align="center">“Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!</blockquote>
 
