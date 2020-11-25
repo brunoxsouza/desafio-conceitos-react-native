@@ -1,3 +1,30 @@
+## Resultado:
+
+<p align="center">
+  <img alt="Resultado" src="https://github.com/brunoxsouza/desafio-conceitos-react-native/blob/master/Desafio04React-Native.gif?raw=true">
+</p>
+
+## Para executar este projeto:
+Após clonar o projeto, rode um `yarn` no terminal para instalar todas as dependências.
+
+Faça o clone do backend desta aplicação, localizado neste repositório: **[Backend - Conceitos Node.](https://github.com/brunoxsouza/desafio-conceitos-nodejs)**
+
+Após clonar, você fará o mesmo procedimento do `yarn` só que agora para o backend.
+
+Feito isso, insira o comando `yarn dev` para o backend.
+
+Rode `yarn start` para iniciar o metro bundler e `yarn android` ou `yarn ios` com o emulador aberto para que possa instalar a aplicação.
+
+**PS:** Esta aplicação utiliza a lib do axios, no arquivo `api.js` você deverá substituir o endereço para o emulador/simulador que você estiver utilizando:
+
+**Genymotion:              http://10.0.3.2:3333/**
+
+**Emulador Android Studio: http://10.0.2.2:3333/**
+
+**Simulador IOS:           http://localhost:3333/**
+
+PS: Se você acessou/acessar **[Conceitos ReactJS](https://github.com/brunoxsouza/desafio-conceitos-reactjs)** verá que estes três projetos estão interligados.
+
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 <h3 align="center">
